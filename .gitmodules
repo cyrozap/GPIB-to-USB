@@ -1,0 +1,9 @@
+[submodule "KiCad"]
+	path = KiCad
+	url = https://github.com/cyrozap/KiCad.git
+[submodule "library"]
+	path = library
+	url = https://github.com/cyrozap/KiCad.git
+[submodule "hardware/library"]
+	path = hardware/library
+	url = https://github.com/cyrozap/KiCad.git
