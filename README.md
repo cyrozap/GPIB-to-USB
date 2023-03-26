@@ -9,9 +9,9 @@ mainly just the STM32 and its supporting components, and I never committed them
 to this repo. No board layout was done, and no firmware was written. Maybe
 someday I'll revive this project, but I'm archiving it for now.
 
-If you need an inexpensive USB GPIB adapter, [this one][xyphro/UsbGpib] looks
-good. The repository even includes a 3D-printable design for an enclosure for
-the device.
+If you need an inexpensive, open source USB GPIB adapter,
+[this one][xyphro/UsbGpib] looks good. The repository even includes a
+3D-printable design for an enclosure for the device.
 
 
 [xyphro/UsbGpib]: https://github.com/xyphro/UsbGpib
